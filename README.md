@@ -6,5 +6,26 @@ Explore the beauty of fractals with this Python GUI. Using mathematical algorith
 - Allows for easy customization and manipulation of fractal parameters
 - Implemented using Python and Tkinter for a user-friendly interface
 - Includes detailed comments and explanations for easy understanding of the code
-- 
+
 # Getting Started
+
+1. Clone the repository to your local machine.
+
+```
+git clone https://github.com/AdamFarid453/PyFractal.git
+```
+
+2. Navigate to the project directory.
+
+```
+cd src
+```
+
+3. Run the project
+
+```
+python3 fractal.py
+```
+
+# Dependencies
+This program requires Python 3 and Tkinter to be installed on your system.
